@@ -20,7 +20,7 @@ This repository is a collection of deep learning projects I've implemented as pa
 
 ---
 
-### 🔹 [Project 2: Attention Mechanisms and Sequence-to-Sequence Models](./Project3)
+### 🔹 [Project 2: Attention Mechanisms and Sequence-to-Sequence Models](./Attention%20Mechanisms%20and%20Sequence-to-Sequence%20Models)
 > **Theme:** "Teaching neural networks where to look."
 
 - Implemented additive (Bahdanau) attention mechanism from scratch
@@ -30,7 +30,7 @@ This repository is a collection of deep learning projects I've implemented as pa
 
 ---
 
-### 🔹 [Project 3: Autoencoders and Representation Learning](./Project4)
+### 🔹 [Project 3: Autoencoders and Representation Learning](./Autoencoders%20and%20Representation%20Learning)
 > **Theme:** "Compressing reality into lower dimensions."
 
 - Built autoencoder architectures with configurable latent dimensions
